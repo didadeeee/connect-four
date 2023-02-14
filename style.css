@@ -1,0 +1,51 @@
+button {
+    height: 50px;
+    margin: 5px;
+    width:100px;
+    padding: 0;
+    border: none;
+    background-color: none;
+}
+
+button.result {
+  margin-left: 65px;  
+  width: 200px;
+  height: 50px;  
+}
+.result {
+    height: 50px;
+    margin: 5px;
+    width:200px;
+    border: 1px solid black;
+    background-color: lightyellow;
+    position: center;
+    display: block;
+}
+
+button.restart {
+    margin-left: 65px;  
+    width: 200px;
+    height: 50px;  
+  }
+
+.restart {
+    height: 50px;
+    margin: 5px;
+    width:200px;
+    border: none;
+    background-color: lightblue;
+    position: center;
+    display: block;
+    border: 1px solid purple
+}
+
+h1{
+    padding-left: 90px;
+    font-style: bold;
+    color: purple;
+}
+
+h2 {
+    padding-left: 110px;
+    font-style: italic;
+}
